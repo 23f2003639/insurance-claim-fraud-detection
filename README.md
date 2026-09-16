@@ -89,3 +89,11 @@ The project demonstrates how Machine Learning can be applied to insurance claim 
 
 - `insurance_claim_fraud_detection.ipynb` – Complete Python implementation and analysis.
 - `confusion_matrix.png` – Confusion matrix of the Logistic Regression model.
+
+---
+
+<div align="center">
+
+[![Sridevi S](https://img.shields.io/badge/Sridevi%20S-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/23f2003639)
+
+</div>
